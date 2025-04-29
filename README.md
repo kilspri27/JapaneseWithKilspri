@@ -5,15 +5,14 @@
 
 
 
-A Python-based application designed to help beginners practice reading Japanese hiragana with N5-level vocabulary. Features text-to-speech pronunciation and intuitive spaced repetition.
+A Python-based application designed to help beginners practice reading Japanese kana with N5-level vocabulary. Features text-to-speech pronunciation and intuitive spaced repetition.
 
 ## Features
 
 - **700+ N5 Vocabulary Words**: Comprehensive beginner word list in hiragana
 - **Audio Integration**: gTTS-powered pronunciation with local caching
 - **Customizable Practice**:
-  - Hiragana focus mode
-  - Spaced repetition algorithm
+  - Hiragana or Katakana
 - **Clean UI**: Tkinter interface with keyboard controls
 - **Data Management**: JSON-structured vocabulary database
 
