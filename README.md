@@ -9,7 +9,7 @@ A Python-based application designed to help beginners practice reading Japanese 
 
 ## Features
 
-- **700+ N5 Vocabulary Words**: Comprehensive beginner word list in hiragana
+- **1600+ N5 Vocabulary Words**: Comprehensive beginner word list
 - **Audio Integration**: gTTS-powered pronunciation with local caching
 - **Customizable Practice**:
   - Hiragana or Katakana
